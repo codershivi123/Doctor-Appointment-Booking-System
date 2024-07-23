@@ -3,7 +3,7 @@
 ## About
 The Doctor Appointment Booking System is a Java Web Development project designed to streamline the process of booking appointments with doctors. Users can register or log in, view available doctors, select an appointment slot, and confirm their booking. Administrators can manage doctor information, appointment slots, and view booking history.
 
-![DoctorAppointmentBooking](https://your-image-url)
+
 
 ### Features
 This website is built for the following purposes:
@@ -193,5 +193,22 @@ select * from TreatmentPlans;
 
 commit ; 
 
---============================================================================================================================================================================
+--
+
+
+============================================================================================================================================================================
+
+Some Screen Shorts -
+
+https://github.com/codershivi123/my-medislot-website/blob/main/front_page.jpeg
+
+https://github.com/codershivi123/my-medislot-website/blob/main/patient_login.jpeg
+
+https://github.com/codershivi123/my-medislot-website/blob/main/doctor_module.jpeg
+
+https://github.com/codershivi123/my-medislot-website/blob/main/doctor_login.jpeg
+
+https://github.com/codershivi123/my-medislot-website/blob/main/appointment_form.jpeg
+
+https://github.com/codershivi123/my-medislot-website/blob/main/add_prescription.jpeg
 
