@@ -15,13 +15,13 @@ This website is built for the following purposes:
 - Implementation of Http Servlets in Java.
 
 ### Users
-#### Admin Access:
+#### Doctor Access:
 - Add New Doctors.
 - View Available Doctors.
 - Manage Doctor Schedules.
 - View Booking History.
 
-#### User Access:
+#### patient Access:
 - Create New Account or Register.
 - Login.
 - View Available Doctors.
@@ -189,10 +189,7 @@ CREATE TABLE TreatmentPlans (
     CONSTRAINT FK_TreatmentPlans_Appointments FOREIGN KEY (AppointmentID) REFERENCES Appointments(AppointmentID)
 );
 
-
-
 select * from TreatmentPlans;
-======================================================================================================================================================================
 
 commit ; 
 
