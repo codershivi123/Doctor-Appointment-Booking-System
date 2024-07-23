@@ -198,17 +198,23 @@ commit ;
 
 ============================================================================================================================================================================
 
-Some Screen Shorts -
+# Screenshots
 
-https://github.com/codershivi123/my-medislot-website/blob/main/front_page.jpeg
+## Front Page
+![Front Page](https://github.com/codershivi123/my-medislot-website/blob/main/front_page.jpeg)
 
-https://github.com/codershivi123/my-medislot-website/blob/main/patient_login.jpeg
+## Patient Login
+![Patient Login](https://github.com/codershivi123/my-medislot-website/blob/main/patient_login.jpeg)
 
-https://github.com/codershivi123/my-medislot-website/blob/main/doctor_module.jpeg
+## Doctor Module
+![Doctor Module](https://github.com/codershivi123/my-medislot-website/blob/main/doctor_module.jpeg)
 
-https://github.com/codershivi123/my-medislot-website/blob/main/doctor_login.jpeg
+## Doctor Login
+![Doctor Login](https://github.com/codershivi123/my-medislot-website/blob/main/doctor_login.jpeg)
 
-https://github.com/codershivi123/my-medislot-website/blob/main/appointment_form.jpeg
+## Appointment Form
+![Appointment Form](https://github.com/codershivi123/my-medislot-website/blob/main/appointment_form.jpeg)
 
-https://github.com/codershivi123/my-medislot-website/blob/main/add_prescription.jpeg
+## Add Prescription
+![Add Prescription](https://github.com/codershivi123/my-medislot-website/blob/main/add_prescription.jpeg)
 
